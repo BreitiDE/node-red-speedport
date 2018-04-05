@@ -4,7 +4,7 @@ T-Online Speedport status flow for Node-Red using node-red-dashboard to visualiz
 
 
 
-![alt tag](https://raw.githubusercontent.com/BreitiDE/node-red-speedport/master/Speedport-Dashboard.png "Speedport Dashboard")
+![alt tag](https://raw.githubusercontent.com/BreitiDE/node-red-speedport/master/Speedport-Dashboard-001.png "Speedport Dashboard")
 
 
 
