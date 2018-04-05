@@ -11,3 +11,6 @@ T-Online Speedport status flow for Node-Red using node-red-dashboard to visualiz
 # Usage:
 
 import speedport-flow.json into a new Node Red flow and edit the IP/URL address in the http request node (Get Speedport Data)
+
+
+you are welcome to extend it
